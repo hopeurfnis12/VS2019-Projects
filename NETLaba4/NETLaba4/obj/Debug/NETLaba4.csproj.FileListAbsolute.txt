@@ -1,0 +1,11 @@
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\bin\Debug\NETLaba4.exe.config
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\bin\Debug\NETLaba4.exe
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\bin\Debug\NETLaba4.pdb
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\obj\Debug\NETLaba4.csproj.AssemblyReference.cache
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\obj\Debug\NETLaba4.Form1.resources
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\obj\Debug\NETLaba4.Properties.Resources.resources
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\obj\Debug\NETLaba4.csproj.GenerateResource.cache
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\obj\Debug\NETLaba4.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\obj\Debug\NETLaba4.exe
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\obj\Debug\NETLaba4.pdb
+C:\Users\ayhal\source\repos\NETLaba4\NETLaba4\obj\Debug\NETLaba4.Form2.resources

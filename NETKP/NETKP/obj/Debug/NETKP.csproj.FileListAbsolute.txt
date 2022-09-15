@@ -1,0 +1,7 @@
+C:\Users\ayhal\source\repos\NETKP\NETKP\bin\Debug\NETKP.exe.config
+C:\Users\ayhal\source\repos\NETKP\NETKP\bin\Debug\NETKP.exe
+C:\Users\ayhal\source\repos\NETKP\NETKP\bin\Debug\NETKP.pdb
+C:\Users\ayhal\source\repos\NETKP\NETKP\obj\Debug\NETKP.csproj.AssemblyReference.cache
+C:\Users\ayhal\source\repos\NETKP\NETKP\obj\Debug\NETKP.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\NETKP\NETKP\obj\Debug\NETKP.exe
+C:\Users\ayhal\source\repos\NETKP\NETKP\obj\Debug\NETKP.pdb

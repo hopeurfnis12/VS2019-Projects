@@ -1,0 +1,15 @@
+C:\Users\ayhal\source\repos\laba1\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\ayhal\source\repos\laba1\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\ayhal\source\repos\laba1\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\ayhal\source\repos\laba1\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\ayhal\source\repos\laba1\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\ayhal\source\repos\laba1\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\ayhal\source\repos\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\ayhal\source\repos\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\laba1\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\ayhal\source\repos\laba1\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\ayhal\source\repos\laba1\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\ayhal\source\repos\laba1\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\ayhal\source\repos\laba1\bin\Debug\Database1.mdf
+C:\Users\ayhal\source\repos\laba1\bin\Debug\Database1_log.ldf
+C:\Users\ayhal\source\repos\laba1\obj\Debug\laba1.csproj.AssemblyReference.cache

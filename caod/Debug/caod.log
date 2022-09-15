@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ayhal\source\repos\caod\source.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ayhal\source\repos\caod\source.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ayhal\source\repos\caod\source.cpp(21): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  caod.vcxproj -> C:\Users\ayhal\source\repos\САОД\Debug\task2.exe

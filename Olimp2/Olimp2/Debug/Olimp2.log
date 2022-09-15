@@ -1,0 +1,8 @@
+﻿  A.cpp
+c:\users\ayhal\source\repos\olimp2\olimp2\a.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\ayhal\source\repos\olimp2\olimp2\a.cpp(10): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\ayhal\source\repos\olimp2\olimp2\a.cpp(16): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+c:\users\ayhal\source\repos\olimp2\olimp2\a.cpp(17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\ayhal\source\repos\olimp2\olimp2\a.cpp(18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\ayhal\source\repos\olimp2\olimp2\a.cpp(7): warning C4101: 'z': unreferenced local variable
+  Olimp2.vcxproj -> C:\Users\ayhal\source\repos\Olimp2\Debug\A.exe

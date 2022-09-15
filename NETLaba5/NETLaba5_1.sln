@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETLaba5_1", "NETLaba5\NETLaba5_1.csproj", "{EC8C2A2E-D38A-4EC5-8D3B-C14C4690212D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8C2A2E-D38A-4EC5-8D3B-C14C4690212D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8C2A2E-D38A-4EC5-8D3B-C14C4690212D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8C2A2E-D38A-4EC5-8D3B-C14C4690212D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8C2A2E-D38A-4EC5-8D3B-C14C4690212D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA2E7A7-13A9-4D33-95CB-2D52211B6953}
+	EndGlobalSection
+EndGlobal

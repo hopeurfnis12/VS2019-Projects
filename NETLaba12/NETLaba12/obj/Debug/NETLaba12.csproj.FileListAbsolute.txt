@@ -1,0 +1,17 @@
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\bin\Debug\NETLaba12.exe.config
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\bin\Debug\NETLaba12.exe
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\bin\Debug\NETLaba12.pdb
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\obj\Debug\NETLaba12.csproj.AssemblyReference.cache
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\obj\Debug\NETLaba12.Form1.resources
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\obj\Debug\NETLaba12.Properties.Resources.resources
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\obj\Debug\NETLaba12.csproj.GenerateResource.cache
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\obj\Debug\NETLaba12.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\obj\Debug\NETLaba12.exe
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\obj\Debug\NETLaba12.pdb
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\bin\Debug\AForge.dll
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\bin\Debug\AForge.Imaging.dll
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\bin\Debug\AForge.Math.dll
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\bin\Debug\AForge.xml
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\bin\Debug\AForge.Imaging.xml
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\bin\Debug\AForge.Math.xml
+C:\Users\ayhal\source\repos\NETLaba12\NETLaba12\obj\Debug\NETLaba12.csproj.CopyComplete

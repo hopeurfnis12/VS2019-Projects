@@ -1,0 +1,7 @@
+C:\Users\ayhal\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\ayhal\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\ayhal\source\repos\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\ayhal\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\ayhal\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\ayhal\source\repos\Shapes\Shapes\obj\Debug\Shapes.pdb

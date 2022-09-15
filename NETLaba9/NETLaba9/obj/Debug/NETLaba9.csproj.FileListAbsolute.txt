@@ -1,0 +1,10 @@
+C:\Users\ayhal\source\repos\NETLaba9\NETLaba9\obj\Debug\NETLaba9.csproj.AssemblyReference.cache
+C:\Users\ayhal\source\repos\NETLaba9\NETLaba9\obj\Debug\NETLaba9.csproj.ResolveComReference.cache
+C:\Users\ayhal\source\repos\NETLaba9\NETLaba9\obj\Debug\NETLaba9.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\NETLaba9\NETLaba9\bin\Debug\NETLaba9.exe.config
+C:\Users\ayhal\source\repos\NETLaba9\NETLaba9\bin\Debug\NETLaba9.exe
+C:\Users\ayhal\source\repos\NETLaba9\NETLaba9\bin\Debug\NETLaba9.pdb
+C:\Users\ayhal\source\repos\NETLaba9\NETLaba9\obj\Debug\NETLaba9.exe
+C:\Users\ayhal\source\repos\NETLaba9\NETLaba9\obj\Debug\NETLaba9.pdb
+C:\Users\ayhal\source\repos\NETLaba9\NETLaba9\obj\Debug\Interop.otkloadr.dll
+C:\Users\ayhal\source\repos\NETLaba9\NETLaba9\obj\Debug\Interop.VSTOEE100.dll

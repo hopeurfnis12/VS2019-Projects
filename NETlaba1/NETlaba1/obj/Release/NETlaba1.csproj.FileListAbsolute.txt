@@ -1,0 +1,6 @@
+C:\Users\ayhal\source\repos\NETlaba1\NETlaba1\bin\Release\NETlaba1.exe.config
+C:\Users\ayhal\source\repos\NETlaba1\NETlaba1\bin\Release\NETlaba1.exe
+C:\Users\ayhal\source\repos\NETlaba1\NETlaba1\bin\Release\NETlaba1.pdb
+C:\Users\ayhal\source\repos\NETlaba1\NETlaba1\obj\Release\NETlaba1.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\NETlaba1\NETlaba1\obj\Release\NETlaba1.exe
+C:\Users\ayhal\source\repos\NETlaba1\NETlaba1\obj\Release\NETlaba1.pdb

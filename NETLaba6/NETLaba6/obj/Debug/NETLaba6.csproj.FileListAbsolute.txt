@@ -1,0 +1,11 @@
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\bin\Debug\NETLaba6.exe.config
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\bin\Debug\NETLaba6.exe
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\bin\Debug\NETLaba6.pdb
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\obj\Debug\NETLaba6.csproj.AssemblyReference.cache
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\obj\Debug\NETLaba6.Artist.resources
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\obj\Debug\NETLaba6.Main.resources
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\obj\Debug\NETLaba6.Properties.Resources.resources
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\obj\Debug\NETLaba6.csproj.GenerateResource.cache
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\obj\Debug\NETLaba6.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\obj\Debug\NETLaba6.exe
+C:\Users\ayhal\source\repos\NETLaba6\NETLaba6\obj\Debug\NETLaba6.pdb

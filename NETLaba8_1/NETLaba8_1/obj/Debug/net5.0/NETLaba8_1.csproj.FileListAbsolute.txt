@@ -1,0 +1,16 @@
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\obj\Debug\net5.0\NETLaba8_1.csproj.AssemblyReference.cache
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\obj\Debug\net5.0\NETLaba8_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\obj\Debug\net5.0\NETLaba8_1.AssemblyInfoInputs.cache
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\obj\Debug\net5.0\NETLaba8_1.AssemblyInfo.cs
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\obj\Debug\net5.0\NETLaba8_1.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\bin\Debug\net5.0\NETLaba8_1.exe
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\bin\Debug\net5.0\NETLaba8_1.deps.json
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\bin\Debug\net5.0\NETLaba8_1.runtimeconfig.json
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\bin\Debug\net5.0\NETLaba8_1.runtimeconfig.dev.json
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\bin\Debug\net5.0\NETLaba8_1.dll
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\bin\Debug\net5.0\ref\NETLaba8_1.dll
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\bin\Debug\net5.0\NETLaba8_1.pdb
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\obj\Debug\net5.0\NETLaba8_1.dll
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\obj\Debug\net5.0\ref\NETLaba8_1.dll
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\obj\Debug\net5.0\NETLaba8_1.pdb
+C:\Users\ayhal\source\repos\NETLaba8_1\NETLaba8_1\obj\Debug\net5.0\NETLaba8_1.genruntimeconfig.cache

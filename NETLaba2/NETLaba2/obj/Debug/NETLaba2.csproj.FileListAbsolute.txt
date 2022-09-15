@@ -1,0 +1,7 @@
+C:\Users\ayhal\source\repos\NETLaba2\NETLaba2\bin\Debug\NETLaba2.exe.config
+C:\Users\ayhal\source\repos\NETLaba2\NETLaba2\bin\Debug\NETLaba2.exe
+C:\Users\ayhal\source\repos\NETLaba2\NETLaba2\bin\Debug\NETLaba2.pdb
+C:\Users\ayhal\source\repos\NETLaba2\NETLaba2\obj\Debug\NETLaba2.csproj.AssemblyReference.cache
+C:\Users\ayhal\source\repos\NETLaba2\NETLaba2\obj\Debug\NETLaba2.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\NETLaba2\NETLaba2\obj\Debug\NETLaba2.exe
+C:\Users\ayhal\source\repos\NETLaba2\NETLaba2\obj\Debug\NETLaba2.pdb

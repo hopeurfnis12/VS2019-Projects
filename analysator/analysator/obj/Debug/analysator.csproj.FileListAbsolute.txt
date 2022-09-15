@@ -1,0 +1,11 @@
+C:\Users\ayhal\source\repos\analysator\analysator\bin\Debug\analysator.exe.config
+C:\Users\ayhal\source\repos\analysator\analysator\bin\Debug\analysator.exe
+C:\Users\ayhal\source\repos\analysator\analysator\bin\Debug\analysator.pdb
+C:\Users\ayhal\source\repos\analysator\analysator\obj\Debug\analysator.csprojAssemblyReference.cache
+C:\Users\ayhal\source\repos\analysator\analysator\obj\Debug\analysator.Form1.resources
+C:\Users\ayhal\source\repos\analysator\analysator\obj\Debug\analysator.Properties.Resources.resources
+C:\Users\ayhal\source\repos\analysator\analysator\obj\Debug\analysator.csproj.GenerateResource.cache
+C:\Users\ayhal\source\repos\analysator\analysator\obj\Debug\analysator.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\analysator\analysator\obj\Debug\analysator.exe
+C:\Users\ayhal\source\repos\analysator\analysator\obj\Debug\analysator.pdb
+C:\Users\ayhal\source\repos\analysator\analysator\obj\Debug\analysator.csproj.AssemblyReference.cache
