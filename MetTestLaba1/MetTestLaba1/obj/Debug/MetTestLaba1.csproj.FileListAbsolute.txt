@@ -1,0 +1,7 @@
+C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\bin\Debug\MetTestLaba1.exe.config
+C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\bin\Debug\MetTestLaba1.exe
+C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\bin\Debug\MetTestLaba1.pdb
+C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.csproj.AssemblyReference.cache
+C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.exe
+C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.pdb
