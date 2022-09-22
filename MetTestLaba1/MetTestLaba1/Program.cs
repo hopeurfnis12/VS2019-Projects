@@ -29,7 +29,7 @@ namespace MetTestLaba1
 				Console.Write("Введите c = ");
 				double C = Convert.ToDouble(Console.ReadLine());
 
-				if ( (A < 4 && (C > 3 || C < -3)) || (A > 4 && (C < 3 || C > -3)) || Math.Abs(C) == 3)
+				if ( (A < 4 && Math.Abs(C) > 3) || (A > 4 && Math.Abs(C) < 3) || (Math.Abs(C) == 3))
 					Console.WriteLine("Ошибка: a/b");
 				else
 				{
@@ -48,7 +48,7 @@ namespace MetTestLaba1
 
 		double GetF(double x, double a, double c)
 		{
-			return Math.Sqrt((a-4)/(Math.Pow(c, 4) - 81)) * Math.Tan(x);
+			return Math.Sqrt((a - 4)/(Math.Pow(c, 4) - 81)) * Math.Tan(x);
 		}
 
 
