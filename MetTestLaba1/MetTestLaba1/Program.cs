@@ -55,7 +55,8 @@ namespace MetTestLaba1
 		/*
 		List GetArray(int n, double x1, double x2, double a, double b)
 		{
-
+			for(i = (x1:x2), n)
+				getf(i, a, c)
 		}
 
 
