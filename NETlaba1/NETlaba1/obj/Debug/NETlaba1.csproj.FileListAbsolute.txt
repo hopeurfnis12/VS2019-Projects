@@ -5,3 +5,11 @@ C:\Users\ayhal\source\repos\NETlaba1\NETlaba1\obj\Debug\NETlaba1.csproj.Assembly
 C:\Users\ayhal\source\repos\NETlaba1\NETlaba1\obj\Debug\NETlaba1.csproj.CoreCompileInputs.cache
 C:\Users\ayhal\source\repos\NETlaba1\NETlaba1\obj\Debug\NETlaba1.exe
 C:\Users\ayhal\source\repos\NETlaba1\NETlaba1\obj\Debug\NETlaba1.pdb
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\NETlaba1\NETlaba1\bin\Debug\NETlaba1.exe.config
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\NETlaba1\NETlaba1\bin\Debug\NETlaba1.exe
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\NETlaba1\NETlaba1\bin\Debug\NETlaba1.pdb
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\NETlaba1\NETlaba1\obj\Debug\NETlaba1.csproj.AssemblyReference.cache
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\NETlaba1\NETlaba1\obj\Debug\NETlaba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\NETlaba1\NETlaba1\obj\Debug\NETlaba1.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\NETlaba1\NETlaba1\obj\Debug\NETlaba1.exe
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\NETlaba1\NETlaba1\obj\Debug\NETlaba1.pdb

@@ -10,14 +10,7 @@ namespace NETlaba1
 	{
 		static void Main()
 		{
-			Task1();
-			Task2();
-			Task3();
-			Task4();
-			Task5();
-			Task6();
-			Task7();
-			Task8();
+			Task9();
 			Console.ReadKey();
 		}
 
@@ -225,6 +218,14 @@ namespace NETlaba1
 					Console.WriteLine("Нет такого дня в неделе");
 					break;
 			}
+		}
+		static void Task9()
+		{
+			double x = 5, a = 5.999, b = 5.001;
+			Console.WriteLine(((Math.Log(10, Math.Sqrt(a - 5))) / (Math.Pow(b, 3) - 125)) * (Math.Pow(x, 5) + 20 * x + 67));	
+			Console.WriteLine(Math.Log(10, Math.Sqrt(a - 5)));
+			Console.WriteLine(Math.Pow(b, 3) - 125);
+			Console.WriteLine(Math.Pow(x, 5) + 20 * x + 67);
 		}
 	}
 }

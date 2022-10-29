@@ -5,3 +5,11 @@ C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.csp
 C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.csproj.CoreCompileInputs.cache
 C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.exe
 C:\Users\ayhal\source\repos\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.pdb
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\MetTestLaba1\MetTestLaba1\bin\Debug\MetTestLaba1.exe.config
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\MetTestLaba1\MetTestLaba1\bin\Debug\MetTestLaba1.exe
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\MetTestLaba1\MetTestLaba1\bin\Debug\MetTestLaba1.pdb
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.csproj.AssemblyReference.cache
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.exe
+C:\Users\ayhal\Documents\GitHub\VS2019-Projects\MetTestLaba1\MetTestLaba1\obj\Debug\MetTestLaba1.pdb
