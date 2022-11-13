@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayhal\\Documents\\GitHub\\VS2019-Projects\\TestVar4\\TestVar4\\TestVar4.csproj": {}
+    "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestVar4\\TestVar4\\TestVar4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayhal\\Documents\\GitHub\\VS2019-Projects\\TestVar4\\TestVar4\\TestVar4.csproj": {
+    "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestVar4\\TestVar4\\TestVar4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayhal\\Documents\\GitHub\\VS2019-Projects\\TestVar4\\TestVar4\\TestVar4.csproj",
+        "projectUniqueName": "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestVar4\\TestVar4\\TestVar4.csproj",
         "projectName": "TestVar4",
-        "projectPath": "C:\\Users\\ayhal\\Documents\\GitHub\\VS2019-Projects\\TestVar4\\TestVar4\\TestVar4.csproj",
+        "projectPath": "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestVar4\\TestVar4\\TestVar4.csproj",
         "packagesPath": "C:\\Users\\ayhal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayhal\\Documents\\GitHub\\VS2019-Projects\\TestVar4\\TestVar4\\obj\\",
+        "outputPath": "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestVar4\\TestVar4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ayhal\\AppData\\Roaming\\NuGet\\NuGet.Config",
