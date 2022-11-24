@@ -8,7 +8,6 @@ namespace TestVar4
 	{
 		Function f = new Function();
 
-
 		/// CORRECT ///
 
 		[TestMethod]
@@ -58,6 +57,6 @@ namespace TestVar4
 		public void WrongTestMethod3()
 		{
 			f.GetF(3, 6.01, 5);
-		}
+		}		
 	}
 }
