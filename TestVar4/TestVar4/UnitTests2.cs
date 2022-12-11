@@ -10,19 +10,20 @@ namespace TestVar4
 	public class UnitTests2
 	{
 		Function f = new Function();
+		ListAccur comp = new ListAccur();
 
 		[TestMethod]
 		public void CorrectTestMethod1()
 		{
 			List<double> cor = new List<double>() { 1.5107, 2.3863 };
-			CollectionAssert.AreEqual(cor, f.GetArray(2, 1, 2, 7, 8), new ListAccur());
+			CollectionAssert.AreEqual(cor, f.GetArray(2, 1, 2, 7, 8), comp);
 		}
 
 		[TestMethod]
 		public void CorrectTestMethod2()
 		{
 			List<double> cor = new List<double>() { 0.0252, 0.03118, 0.0382, 0.0465, };
-			CollectionAssert.AreEqual(cor, f.GetArray(4, 23, 26, 1435, 545), new ListAccur());
+			CollectionAssert.AreEqual(cor, f.GetArray(4, 23, 26, 1435, 545), comp);
 		}
 
 		[TestMethod]

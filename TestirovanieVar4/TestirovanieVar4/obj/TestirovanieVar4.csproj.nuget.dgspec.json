@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ayhal\\Documents\\GitHub\\VS2019-Projects\\TestirovanieVar4\\TestirovanieVar4\\TestirovanieVar4.csproj": {}
+    "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestirovanieVar4\\TestirovanieVar4\\TestirovanieVar4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ayhal\\Documents\\GitHub\\VS2019-Projects\\TestirovanieVar4\\TestirovanieVar4\\TestirovanieVar4.csproj": {
+    "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestirovanieVar4\\TestirovanieVar4\\TestirovanieVar4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ayhal\\Documents\\GitHub\\VS2019-Projects\\TestirovanieVar4\\TestirovanieVar4\\TestirovanieVar4.csproj",
+        "projectUniqueName": "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestirovanieVar4\\TestirovanieVar4\\TestirovanieVar4.csproj",
         "projectName": "TestirovanieVar4",
-        "projectPath": "C:\\Users\\ayhal\\Documents\\GitHub\\VS2019-Projects\\TestirovanieVar4\\TestirovanieVar4\\TestirovanieVar4.csproj",
+        "projectPath": "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestirovanieVar4\\TestirovanieVar4\\TestirovanieVar4.csproj",
         "packagesPath": "C:\\Users\\ayhal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ayhal\\Documents\\GitHub\\VS2019-Projects\\TestirovanieVar4\\TestirovanieVar4\\obj\\",
+        "outputPath": "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestirovanieVar4\\TestirovanieVar4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ayhal\\AppData\\Roaming\\NuGet\\NuGet.Config",

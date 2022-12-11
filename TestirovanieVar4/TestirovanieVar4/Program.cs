@@ -53,7 +53,7 @@ namespace TestirovanieVar4
 
 		static void WriteToFile(string name, List<double> val)
 		{
-			string path = @"..\..\..\" + name;
+			string path = @"" + name;
 			FileStream fs = new FileStream(path, FileMode.OpenOrCreate);
 			using (StreamWriter op = new StreamWriter(fs))
 			{

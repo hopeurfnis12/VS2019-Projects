@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Net;
+using System.Runtime.Intrinsics.X86;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -32,6 +35,26 @@ namespace TestVar4
 				}
 				return garr;
 			}
+		}
+
+		public void WriteToFile(string name, List<double> val)
+		{
+			string path_project = @"..\..\..\" + name;
+			string path = @"" + name;
+			FileStream fs;
+			try
+			{
+				fs = new FileStream(path, FileMode.OpenOrCreate);
+				using (StreamWriter op = new StreamWriter(fs))
+				{
+					for (int i = 0; i < val.Count; i++) op.WriteLine(val[i]);
+				}
+			}
+			catch (IOException)
+			{
+				throw new Exception("File/path not exists");
+			}
+
 		}
 	}
 }

@@ -1,0 +1,15 @@
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\bin\Debug\net6.0\Balvanka.exe
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\bin\Debug\net6.0\Balvanka.deps.json
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\bin\Debug\net6.0\Balvanka.runtimeconfig.json
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\bin\Debug\net6.0\Balvanka.dll
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\bin\Debug\net6.0\Balvanka.pdb
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\obj\Debug\net6.0\Balvanka.csproj.AssemblyReference.cache
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\obj\Debug\net6.0\Balvanka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\obj\Debug\net6.0\Balvanka.AssemblyInfoInputs.cache
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\obj\Debug\net6.0\Balvanka.AssemblyInfo.cs
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\obj\Debug\net6.0\Balvanka.csproj.CoreCompileInputs.cache
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\obj\Debug\net6.0\Balvanka.dll
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\obj\Debug\net6.0\refint\Balvanka.dll
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\obj\Debug\net6.0\Balvanka.pdb
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\obj\Debug\net6.0\Balvanka.genruntimeconfig.cache
+C:\Users\ayhal\Documents\GitHub\VS-Projects\Balvanka\Balvanka\obj\Debug\net6.0\ref\Balvanka.dll
