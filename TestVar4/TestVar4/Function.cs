@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -39,22 +40,25 @@ namespace TestVar4
 
 		public void WriteToFile(string name, List<double> val)
 		{
-			string path_project = @"..\..\..\" + name;
-			string path = @"" + name;
-			FileStream fs;
-			try
+			if (val.Count() == 0 || val == null) throw new Exception("list error");
+			else
 			{
-				fs = new FileStream(path, FileMode.OpenOrCreate);
-				using (StreamWriter op = new StreamWriter(fs))
+				//string path_project = @"..\..\..\" + name;
+				string path = @"" + name;
+				FileStream fs;
+				try
 				{
-					for (int i = 0; i < val.Count; i++) op.WriteLine(val[i]);
+					fs = new FileStream(path, FileMode.OpenOrCreate);
+					using (StreamWriter op = new StreamWriter(fs))
+					{
+						for (int i = 0; i < val.Count; i++) op.WriteLine(val[i]);
+					}
+				}
+				catch (IOException)
+				{
+					throw new Exception("File/path not exists");
 				}
 			}
-			catch (IOException)
-			{
-				throw new Exception("File/path not exists");
-			}
-
 		}
 	}
 }

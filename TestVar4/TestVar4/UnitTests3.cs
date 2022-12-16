@@ -46,7 +46,32 @@ namespace TestVar4
 			List<double> cor = new List<double>() { 1.5107, 2.3863 };
 			List<double> cur = new List<double>();
 
-			f.WriteToFile(name, f.GetArray(2, 1, 2, 7, 8));
+			f.WriteToFile(name, cor);
+			Assert.IsTrue(File.Exists(path));
+
+			using (StreamReader sr = new StreamReader(path))
+			{
+				string line;
+				while ((line = sr.ReadLine()) != null)
+				{
+					cur.Add(Convert.ToDouble(line));
+				}
+			}
+			CollectionAssert.AreEqual(cor, cur, comp);
+			File.Delete(path);
+			Assert.IsFalse(File.Exists(path));
+		}
+
+		[TestMethod]
+		public void CorrectTestMethod3()
+		{
+			string name = "C:\\Users\\ayhal\\Documents\\oro.txt";
+			string path = @"" + name;
+
+			List<double> cor = new List<double>() { 1.5107 };
+			List<double> cur = new List<double>();
+
+			f.WriteToFile(name, cor);
 			Assert.IsTrue(File.Exists(path));
 
 			using (StreamReader sr = new StreamReader(path))
@@ -66,16 +91,16 @@ namespace TestVar4
 		[ExpectedException(typeof(Exception))]
 		public void WrongTestMethod1()
 		{
-			string name = "D:\\oro.txt";
+			string name = "hj:\\oro.txt";
 			string path = @"" + name;
-			f.WriteToFile(name, f.GetArray(2, 1, 2, 7, 8));
+			f.WriteToFile(path, f.GetArray(2, 1, 2, 7, 8));
 		}
 
 		[TestMethod]
 		[ExpectedException(typeof(Exception))]
 		public void WrongTestMethod2()
 		{
-			string name = "or?3wo.txt";
+			string name = "or\"3wo.txt";
 			string path = @"" + name;
 			f.WriteToFile(name, f.GetArray(2, 1, 2, 7, 8));
 		}
@@ -125,13 +150,44 @@ namespace TestVar4
 			f.WriteToFile(name, f.GetArray(2, 1, 2, 7, 8));
 		}
 
+
 		[TestMethod]
 		[ExpectedException(typeof(Exception))]
 		public void WrongTestMethod8()
 		{
-			string name = "odsf:o.txt";
+			string name = "odsfo.txt";
 			string path = @"" + name;
-			f.WriteToFile(name, f.GetArray(2, 1, 2, 7, 8));
+			f.WriteToFile(name, f.GetArray(0, 1, 2, 7, 8));
 		}
+
+		[TestMethod]
+		[ExpectedException(typeof(Exception))]
+		public void WrongTestMethod9()
+		{
+			List<double> cor = new List<double>() { };
+			string name = "odsfo.txt";
+			string path = @"" + name;
+			f.WriteToFile(name, cor);
+		}
+
+		[TestMethod]
+		[ExpectedException(typeof(Exception))]
+		public void WrongTestMethod10()
+		{
+			List<double> cor = new List<double>() { 1.5107, 2.3863 };
+			string name = "PRN.txt";
+			string path = @"" + name;
+			f.WriteToFile(name, cor);
+		}
+
+		/*[TestMethod]
+		[ExpectedException(typeof(Exception))]
+		public void WrongTestMethod11()
+		{
+			//List<double> cor;
+			string name = "Pasd.txt";
+			string path = @"" + name;
+			f.WriteToFile(name, null);
+		}*/
 	}
 }

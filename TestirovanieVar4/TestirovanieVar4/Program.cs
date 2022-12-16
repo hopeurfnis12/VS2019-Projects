@@ -63,7 +63,7 @@ namespace TestirovanieVar4
 
 		public static void Main(String[] args)
 		{
-			int n = 2;
+			int n = 0;
 			double x1 = 1;
 			double x2 = 2;
 			double a = 7;
@@ -82,7 +82,7 @@ namespace TestirovanieVar4
 				x += h;
 			}
 
-			string name = "";
+/*			string name = "";
 			while (name == "")
 			{
 				Console.Write("\nFile name = ");
@@ -90,6 +90,6 @@ namespace TestirovanieVar4
 				if (name == "") Console.WriteLine("EMPTY NAME!!!");
 			}
 			WriteToFile(name + ".txt", otv);
-		}
+*/		}
 	}
 }
