@@ -194,3 +194,9 @@ C:\Users\ayhal\Documents\GitHub\VS-Projects\TestVar4\TestVar4\bin\Debug\net6.0\z
 C:\Users\ayhal\Documents\GitHub\VS-Projects\TestVar4\TestVar4\obj\Debug\net6.0\TestVar4.csproj.CopyComplete
 C:\Users\ayhal\Documents\GitHub\VS-Projects\TestVar4\TestVar4\obj\Debug\net6.0\TestVar4.genruntimeconfig.cache
 C:\Users\ayhal\Documents\GitHub\VS-Projects\TestVar4\TestVar4\obj\Debug\net6.0\ref\TestVar4.dll
+C:\Users\ayhal\Documents\GitHub\VS-Projects\TestVar4\TestVar4\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\ayhal\Documents\GitHub\VS-Projects\TestVar4\TestVar4\bin\Debug\net6.0\TestirovanieVar4.deps.json
+C:\Users\ayhal\Documents\GitHub\VS-Projects\TestVar4\TestVar4\bin\Debug\net6.0\TestirovanieVar4.runtimeconfig.json
+C:\Users\ayhal\Documents\GitHub\VS-Projects\TestVar4\TestVar4\bin\Debug\net6.0\TestirovanieVar4.exe
+C:\Users\ayhal\Documents\GitHub\VS-Projects\TestVar4\TestVar4\bin\Debug\net6.0\TestirovanieVar4.dll
+C:\Users\ayhal\Documents\GitHub\VS-Projects\TestVar4\TestVar4\bin\Debug\net6.0\TestirovanieVar4.pdb

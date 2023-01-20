@@ -1788,6 +1788,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "TestirovanieVar4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TestirovanieVar4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TestirovanieVar4.dll": {}
+        }
       }
     }
   },
@@ -6325,6 +6335,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "TestirovanieVar4/1.0.0": {
+      "type": "project",
+      "path": "../TestirovanieVar4/TestirovanieVar4/TestirovanieVar4.csproj",
+      "msbuildProject": "../TestirovanieVar4/TestirovanieVar4/TestirovanieVar4.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6332,6 +6347,7 @@
       "MSTest.TestAdapter >= 2.2.8",
       "MSTest.TestFramework >= 2.2.8",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
+      "TestirovanieVar4 >= 1.0.0",
       "coverlet.collector >= 3.1.2"
     ]
   },
@@ -6361,7 +6377,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestVar4\\TestirovanieVar4\\TestirovanieVar4\\TestirovanieVar4.csproj": {
+              "projectPath": "C:\\Users\\ayhal\\Documents\\GitHub\\VS-Projects\\TestVar4\\TestirovanieVar4\\TestirovanieVar4\\TestirovanieVar4.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
