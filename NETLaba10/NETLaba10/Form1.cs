@@ -49,10 +49,7 @@ namespace NETLaba10
 			}
 		}
 		private ArrayPoints ap = new ArrayPoints(2);
-		private Point p3 = new Point();
 		private bool isDragging = false;
-		private bool task3 = false;
-		private bool lastpoint = false;
 		string path = @"C:\Users\ayhal\Pictures\Рисунки";
 		string file;
 		Bitmap b;
@@ -76,48 +73,6 @@ namespace NETLaba10
 			this.Text = "New";
 
 			saveToolStripMenuItem.Enabled = false;
-		}
-
-		// TASKS //
-		// 1
-		private void toolStripMenuItem2_Click(object sender, EventArgs e)
-		{
-			var rand = new Random();
-			SolidBrush brush = new SolidBrush(Color.FromArgb(rand.Next(256), rand.Next(256), rand.Next(256)));
-			g.FillEllipse(brush, rand.Next(pictureBox1.Left, pictureBox1.Right), rand.Next(pictureBox1.Top, pictureBox1.Bottom),
-				rand.Next(1, 100), rand.Next(1, 100));
-			pictureBox1.Image = b;
-		}
-
-		// 2
-		private void toolStripMenuItem3_Click(object sender, EventArgs e)
-		{
-			var rand = new Random();
-			int x = rand.Next(pictureBox1.Left, pictureBox1.Right);
-			int y = rand.Next(pictureBox1.Top, pictureBox1.Bottom);
-			int n = rand.Next(1, 20);
-			for (int i = 1; i <= n; i++)
-			{
-				Pen p = new Pen(Color.FromArgb(rand.Next(256), rand.Next(256), rand.Next(256)), trackBar1.Value);
-				int s = i * 10;
-				g.DrawEllipse(p, x - s / 2, y - s / 2, s, s);
-			}
-			pictureBox1.Image = b;
-		}
-
-		// 3
-		private void toolStripMenuItem4_Click(object sender, EventArgs e)
-		{
-			if (task3)
-			{
-				task3 = false;
-				this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Default;
-			}
-			else
-			{
-				task3 = true;
-				this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Hand;
-			}
 		}
 
 		// SIDE BUTTONS //
@@ -146,34 +101,7 @@ namespace NETLaba10
 		// PAINT //
 		private void pictureBox1_MouseDown(object sender, MouseEventArgs e)
 		{
-			if (task3)
-			{
-				if (!lastpoint)
-				{
-					p3.X = e.X;
-					p3.Y = e.Y;
-					lastpoint = true;
-				}
-				else
-				{
-					lastpoint = false;
-					var rand = new Random();
-					int x;
-					int y;
-					int n = rand.Next(5, 20);
-					x = (e.X - p3.X) / n;
-					y = (e.Y - p3.Y) / n;
-					for (int i = n; i > 0; i--)
-					{
-						Pen p = new Pen(Color.FromArgb(rand.Next(256), rand.Next(256), rand.Next(256)), trackBar1.Value);
-						p3.X += x;
-						p3.Y += y;
-						int s = i * 5;
-						g.DrawEllipse(p, p3.X - s / 2, p3.Y - s / 2, s, s);
-					}
-					pictureBox1.Image = b;
-				}
-			} else isDragging = true;
+				isDragging = true;
 		}
 
 		private void pictureBox1_MouseMove(object sender, MouseEventArgs e)
